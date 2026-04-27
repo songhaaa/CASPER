@@ -9,7 +9,7 @@ Official implementation of  _Songha Kim, Soyeon Bak, Jun-Mo Kim, Woohyeok Choi, 
 - Distance-weighted prototype learning to enhance robustness against noise and outliers  
 
 ## 📄 Paper
-The paper has been accepted to ICASSP 2026 and will be available soon.
+[CASPER Paper link](https://ieeexplore.ieee.org/document/11461997)
 
 ## 📦 Dataset Preparation
 This project uses the [SEED](https://bcmi.sjtu.edu.cn/~seed/index.html) and [SEED-IV](https://bcmi.sjtu.edu.cn/~seed/index.html) datasets. Please download and prepare them before running the code.
